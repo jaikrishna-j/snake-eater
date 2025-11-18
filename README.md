@@ -21,15 +21,15 @@ This is my simple Snake game built with Python's `turtle` module.
 
 ### 1. Start Screen
 
-![Start Screen](assets/start-screen.png)
+<img src="assets/start-screen.png" alt="Start Screen" width="400" />
 
 ### 2. Gameplay
 
-![Gameplay](assets/gameplay.png)
+<img src="assets/gameplay.png" alt="Gameplay" width="400" />
 
 ### 3. Game Over Screen
 
-![Game Over Screen](assets/game-over.png)
+<img src="assets/game-over.png" alt="Game Over Screen" width="400" />
 
 ## 🚀 How to Run
 
