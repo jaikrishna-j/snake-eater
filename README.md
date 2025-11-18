@@ -38,7 +38,3 @@ This is my simple Snake game built with Python's `turtle` module.
 # Run the game
 python main.py
 ```
-
-## 👨‍💻 Author
-
-[Jaikrishna](https://github.com/jaikrishna-j)
